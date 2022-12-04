@@ -7,4 +7,4 @@
 # Quick Access
 ## <a href="https://mmckinnon6015.github.io/pacmen">PacMen Exercise</a>
 # License information
-## [LICENSE.md](/pacmen/LICENSE.md)
+## [LICENSE.md](/mmckinnon6015/pacmen/LICENSE.md)
