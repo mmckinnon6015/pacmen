@@ -6,5 +6,5 @@
 ## Have the PacMan characters also be female at random amounts. Have multiple characters spawned in at once on the page.
 # Quick Access
 ## <a href="https://mmckinnon6015.github.io/pacmen">PacMen Exercise</a>
-#License information
-## [
+# License information
+## [LICENSE.md](pacmen/LICENSE.md)
